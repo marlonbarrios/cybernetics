@@ -1,8 +1,4 @@
 
-
-
-# Cybernetics
-
 More than a system of control, **cybernetics** is the network of interactions between humans, machines, and environment. Defined as the study of communication, regulation, and feedback processes in living beings, machines, and organizations, cybernetics starts from the idea that the biological, the technological, and the social share common patterns : circularity, information, and adaptation.
 
 Linked in its origins to **military, industrial, and capitalist power**, cybernetics still sustains forms of surveillance and accumulation. The term was popularized by **Norbert Wiener** in *Cybernetics: Or Control and Communication in the Animal and the Machine* (1948), in the postwar context, when radars, guided missiles, and predictive systems revealed its tight relation with the military-industrial apparatus. In the following decades, its influence expanded into **biology**, **psychology**, and the **social sciences**, giving rise to **systems theory** and the first developments in **artificial intelligence**.
