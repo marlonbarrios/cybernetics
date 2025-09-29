@@ -23,3 +23,6 @@ We propose a **decolonial cybernetics** that does not govern from above, but **w
 - **Donna Haraway**: with her *Cyborg Manifesto* (1985), re-signified cybernetics from **critical feminism**, presenting the **cyborg** as a figure that challenges dichotomies such as *human/machine* and *nature/culture*, opening possibilities for thinking hybrid, non-normative bodies beyond Western universalist narratives.  
 - **Achille Mbembe**: showed how **digital control** articulates with **necropolitics**.  
 - **Aníbal Quijano** and **Walter Mignolo**: revealed how **algorithmic systems** reproduce **colonial hierarchies of knowledge and power**.
+
+  <a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
+
